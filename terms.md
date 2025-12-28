@@ -1,5 +1,3 @@
-📜 NUTZUNGSBEDINGUNGEN / TERMS OF SERVICE
-
 🇩🇪 Nutzungsbedingungen
 
 1. Geltungsbereich
