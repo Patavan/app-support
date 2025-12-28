@@ -1,51 +1,106 @@
-# Nutzungsbedingungen / Terms of Use
+📜 NUTZUNGSBEDINGUNGEN / TERMS OF SERVICE
 
-## 🇩🇪 Deutsch
+🇩🇪 Nutzungsbedingungen
 
-### Geltungsbereich
-Diese Nutzungsbedingungen gelten für die Nutzung der App „News Glance Pro“.
+1. Geltungsbereich
 
-### Leistungsbeschreibung
-Die App ermöglicht das lokale Lesen und Verwalten von RSS-Feeds. Inhalte stammen von externen Anbietern.
+Diese Nutzungsbedingungen gelten für alle Anwendungen von
+Michael Orend – MO Apps.
 
-### Haftungsausschluss
-Der Entwickler übernimmt keine Haftung für:
-- Inhalte externer RSS-Quellen
-- Richtigkeit, Aktualität oder Verfügbarkeit der Inhalte
+⸻
 
-### Abonnement
-Einige Funktionen sind nur mit einem Abonnement verfügbar.
-- Abrechnung erfolgt über Apple
-- Kündigung über die Apple-ID-Einstellungen
-- Preise und Laufzeiten werden im App Store angezeigt
+2. Nutzung
 
-### Urheberrecht
-Die App unterliegt dem Urheberrecht des Entwicklers. Inhalte der RSS-Feeds unterliegen den Rechten der jeweiligen Anbieter.
+Die Nutzung der Apps erfolgt auf eigene Verantwortung.
+Die Apps werden „wie gesehen“ bereitgestellt.
 
-Stand: Dezember 2025
+⸻
 
----
+3. Verfügbarkeit
 
-## 🇬🇧 English
+Es besteht kein Anspruch auf permanente Verfügbarkeit oder Fehlerfreiheit.
 
-### Scope
-These terms apply to the use of the app “News Glance Pro”.
+⸻
 
-### Service Description
-The app enables local reading and management of RSS feeds. Content is provided by third parties.
+4. Abonnements
 
-### Disclaimer
-The developer assumes no liability for:
-- content of external RSS feeds
-- accuracy, availability or timeliness of content
+Kostenpflichtige Funktionen werden über den Apple App Store bereitgestellt.
+Es gelten zusätzlich die Bedingungen von Apple.
 
-### Subscription
-Some features require a subscription.
-- Billing is handled by Apple
-- Cancellation via Apple ID settings
-- Prices and durations are shown in the App Store
+⸻
 
-### Copyright
-The app is protected by copyright. RSS feed content remains the property of the respective providers.
+5. Inhalte
 
-Last updated: December 2025
+Die bereitgestellten Inhalte dienen ausschließlich Informationszwecken
+und stellen keine rechtliche, medizinische oder fachliche Beratung dar.
+
+⸻
+
+6. Haftung
+
+MO Apps haftet nur bei Vorsatz oder grober Fahrlässigkeit.
+
+⸻
+
+7. Änderungen
+
+Funktionen und Inhalte können jederzeit angepasst oder eingestellt werden.
+
+⸻
+
+8. Anwendbares Recht
+
+Es gilt deutsches Recht.
+
+⸻
+
+🇬🇧 Terms of Service
+
+1. Scope
+
+These terms apply to all applications published by
+Michael Orend – MO Apps.
+
+⸻
+
+2. Use
+
+Apps are provided “as is”.
+Use is at your own risk.
+
+⸻
+
+3. Availability
+
+No guarantee of permanent availability or error-free operation.
+
+⸻
+
+4. Subscriptions
+
+Paid features are provided via the Apple App Store.
+Apple’s terms also apply.
+
+⸻
+
+5. Content
+
+Content is for informational purposes only and does not constitute professional advice.
+
+⸻
+
+6. Liability
+
+MO Apps is liable only in cases of intent or gross negligence.
+
+⸻
+
+7. Changes
+
+Features and content may be modified or discontinued at any time.
+
+⸻
+
+8. Governing Law
+
+German law applies.
