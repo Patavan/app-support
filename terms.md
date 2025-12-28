@@ -1,104 +1,54 @@
-🇩🇪 Nutzungsbedingungen
+# Nutzungsbedingungen / Terms of Use
 
-1. Geltungsbereich
+## Deutsch
 
-Diese Nutzungsbedingungen gelten für alle Anwendungen von
-Michael Orend – MO Apps.
+### 1. Anbieter
+Michael Orend – MO Apps  
+E-Mail: support@orend.org
 
-⸻
+### 2. Geltungsbereich
+Diese Nutzungsbedingungen gelten für **alle mobilen Anwendungen**
+von Michael Orend – MO Apps, sofern nicht ausdrücklich anders angegeben.
 
-2. Nutzung
-
+### 3. Nutzung der Apps
 Die Nutzung der Apps erfolgt auf eigene Verantwortung.
-Die Apps werden „wie gesehen“ bereitgestellt.
+Es besteht kein Anspruch auf dauerhafte Verfügbarkeit oder Fehlerfreiheit.
 
-⸻
+### 4. Inhalte
+Alle Inhalte dienen ausschließlich Informations- oder Funktionszwecken.
+Eine Haftung für Aktualität, Richtigkeit oder Vollständigkeit wird ausgeschlossen.
 
-3. Verfügbarkeit
+### 5. Haftung
+Der Anbieter haftet nicht für Schäden, die aus der Nutzung oder Nichtverfügbarkeit
+der Apps entstehen, soweit gesetzlich zulässig.
 
-Es besteht kein Anspruch auf permanente Verfügbarkeit oder Fehlerfreiheit.
+### 6. Änderungen
+Der Anbieter behält sich vor, Funktionen oder Inhalte jederzeit zu ändern
+oder einzustellen.
 
-⸻
+---
 
-4. Abonnements
+## English
 
-Kostenpflichtige Funktionen werden über den Apple App Store bereitgestellt.
-Es gelten zusätzlich die Bedingungen von Apple.
+### 1. Provider
+Michael Orend – MO Apps  
+Email: support@orend.org
 
-⸻
+### 2. Scope
+These terms apply to **all mobile applications** by Michael Orend – MO Apps,
+unless stated otherwise.
 
-5. Inhalte
+### 3. Use of the apps
+Use of the apps is at your own risk.
+No guarantee is given for availability or error-free operation.
 
-Die bereitgestellten Inhalte dienen ausschließlich Informationszwecken
-und stellen keine rechtliche, medizinische oder fachliche Beratung dar.
+### 4. Content
+All content is provided for informational or functional purposes only.
+No liability is assumed for accuracy or completeness.
 
-⸻
+### 5. Liability
+The provider is not liable for damages arising from use or non-availability
+of the apps, to the extent permitted by law.
 
-6. Haftung
-
-MO Apps haftet nur bei Vorsatz oder grober Fahrlässigkeit.
-
-⸻
-
-7. Änderungen
-
-Funktionen und Inhalte können jederzeit angepasst oder eingestellt werden.
-
-⸻
-
-8. Anwendbares Recht
-
-Es gilt deutsches Recht.
-
-⸻
-
-🇬🇧 Terms of Service
-
-1. Scope
-
-These terms apply to all applications published by
-Michael Orend – MO Apps.
-
-⸻
-
-2. Use
-
-Apps are provided “as is”.
-Use is at your own risk.
-
-⸻
-
-3. Availability
-
-No guarantee of permanent availability or error-free operation.
-
-⸻
-
-4. Subscriptions
-
-Paid features are provided via the Apple App Store.
-Apple’s terms also apply.
-
-⸻
-
-5. Content
-
-Content is for informational purposes only and does not constitute professional advice.
-
-⸻
-
-6. Liability
-
-MO Apps is liable only in cases of intent or gross negligence.
-
-⸻
-
-7. Changes
-
-Features and content may be modified or discontinued at any time.
-
-⸻
-
-8. Governing Law
-
-German law applies.
+### 6. Changes
+The provider may change or discontinue features at any time.
