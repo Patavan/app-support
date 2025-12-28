@@ -1,1 +1,131 @@
+GOOGLE-ZUGANGSDATEN & EINSTELLUNGEN
+
+(für iOS / Xcode / App Store – verständlich & vollständig)
+
+⸻
+
+1. GRUNDSATZ (sehr wichtig)
+
+Wenn eine App keine Google-Dienste nutzt, muss NICHTS eingerichtet werden.
+Keine IDs, keine Schlüssel, keine Einträge im App Store.
+
+Wenn Google genutzt wird, dann nur genau die Teile, die wirklich gebraucht werden.
+
+⸻
+
+2. GOOGLE ADMOB (Werbung)
+
+AdMob ist der häufigste und einzige Google-Dienst in vielen Apps.
+
+Herkunft:
+AdMob Console → App auswählen → App-Einstellungen
+
+Du benötigst genau zwei Dinge:
+
+Erstens: AdMob App ID
+Format:
+ca-app-pub-XXXXXXXXXXXXXXXX~YYYYYYYYYY
+
+Diese ID kommt einmalig in die App-Konfiguration (Info.plist).
+
+Zweitens: Ad Unit ID (für Banner, Interstitial, Rewarded)
+Format:
+ca-app-pub-XXXXXXXXXXXXXXXX/ZZZZZZZZZZ
+
+Diese ID wird im Swift-Code für die jeweilige Anzeige verwendet.
+
+Nicht notwendig für AdMob sind:
+Client IDs, OAuth, API Keys, Firebase, GoogleService-Info.plist.
+
+⸻
+
+3. FIREBASE (Analytics, Crashlytics, Push)
+
+Nur nötig, wenn du aktiv Firebase nutzt.
+
+Herkunft:
+Firebase Console → Projekt → iOS App hinzufügen
+
+Du bekommst eine Datei:
+GoogleService-Info.plist
+
+Diese Datei wird:
+	•	exakt so benannt
+	•	ins Xcode-Projekt gezogen
+	•	dem App-Target zugewiesen
+
+Es ist keine manuelle Eingabe von IDs im Code nötig.
+
+Firebase-Daten wie API_KEY oder PROJECT_ID werden automatisch genutzt.
+
+⸻
+
+4. GOOGLE SIGN-IN (Login mit Google)
+
+Nur nötig, wenn sich Nutzer mit Google anmelden können.
+
+Herkunft:
+Google Cloud Console → APIs & Services → Credentials
+
+Benötigt wird eine Client ID
+Format:
+xxxxxxxxxxxxxxxxxxxx.apps.googleusercontent.com
+
+Diese wird im Swift-Code für die Anmeldung verwendet.
+
+⸻
+
+5. APP STORE CONNECT – DATENSCHUTZANGABEN (Google-relevant)
+
+Wenn AdMob aktiv ist:
+
+Gesammelte Daten:
+	•	Advertising Identifier
+	•	Usage Data (Werbezwecke)
+
+Wichtig:
+	•	Tracking = NEIN
+	•	Keine Verknüpfung mit Identität
+	•	Keine Weitergabe an Dritte
+
+Wenn kein Google aktiv ist:
+	•	„No data collected“
+
+⸻
+
+6. WAS NICHT BENÖTIGT WIRD (sehr häufige Fehler)
+
+Nicht nötig, solange du es nicht bewusst nutzt:
+	•	Google Cloud API Keys
+	•	OAuth Redirect URLs
+	•	Google Maps API
+	•	YouTube API
+	•	Client Secrets
+
+Alles das kann weggelassen werden.
+
+⸻
+
+7. ZUSAMMENFASSUNG (Kurzfassung)
+
+Nur AdMob →
+Du brauchst AdMob App ID + Ad Unit IDs
+
+AdMob + Firebase →
+Zusätzlich GoogleService-Info.plist
+
+Gar kein Google →
+Gar nichts eintragen
+
+⸻
+
+8. DEINE SUPPORT-DATEN (korrekt & Apple-konform)
+
+E-Mail für Datenschutz & Support:
+support@orend.org
+
+Diese Adresse:
+	•	gehört in Datenschutzerklärung
+	•	gehört in Nutzungsbedingungen
+	•	wird im App Store akzeptiert
 
