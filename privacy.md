@@ -1,248 +1,101 @@
-🇩🇪 Datenschutzerklärung
+# Datenschutzerklärung / Privacy Policy
 
-1. Verantwortlicher
+## Deutsch
 
-Michael Orend – MO Apps
+### 1. Verantwortlicher
+Michael Orend – MO Apps  
+E-Mail: support@orend.org
+
+### 2. Grundsatz
+Der Schutz deiner Daten ist uns wichtig. Unsere Apps sind so konzipiert, dass
+sie mit **minimaler Datenerhebung** auskommen.
+
+### 3. Keine automatische Datensammlung
+Unsere Apps:
+- erfassen **keine personenbezogenen Daten automatisch**
+- verwenden **keine Tracking- oder Analyse-Dienste**
+- nutzen **keine Werbe-IDs**
+- setzen **keine Cookies**
+- übertragen **keine Daten an Dritte**
+
+### 4. Lokale Verarbeitung
+Alle Inhalte, Einstellungen und Daten werden **ausschließlich lokal auf dem Gerät**
+gespeichert, sofern in der App nichts anderes ausdrücklich angegeben ist.
+
+### 5. Kontaktaufnahme / Support
+Wenn du uns kontaktierst (z. B. per E-Mail oder optionalem Support-Formular),
+werden die von dir freiwillig übermittelten Daten verarbeitet:
+- Name (optional)
+- E-Mail-Adresse (optional)
+- Nachricht
+
+**Zweck:** Kundensupport  
+**Rechtsgrundlage:** Art. 6 Abs. 1 lit. b DSGVO  
+Diese Daten werden **nicht für Tracking**, **nicht zu Werbezwecken**
+und **nicht dauerhaft gespeichert**.
+
+### 6. Standortdaten
+Einige Apps können – nach ausdrücklicher Zustimmung – Standortdaten verwenden
+(z. B. GPS).  
+Dies erfolgt ausschließlich zur Bereitstellung app-spezifischer Funktionen.
+**Nicht alle Apps nutzen Standortdaten.**
+
+### 7. Drittanbieter
+Unsere Apps verwenden **keine Drittanbieter-Dienste** zur Datenauswertung
+oder zum Tracking.
+
+### 8. Rechte der Nutzer
+Du hast jederzeit das Recht auf:
+- Auskunft
+- Berichtigung
+- Löschung
+- Einschränkung der Verarbeitung
+
 Kontakt: support@orend.org
 
-⸻
-
-2. Geltungsbereich
-
-Diese Datenschutzerklärung gilt für alle mobilen und Desktop-Anwendungen,
-die vom Entwickler Michael Orend – MO Apps veröffentlicht werden
-(iOS, iPadOS, macOS, watchOS, tvOS), unabhängig vom jeweiligen Funktionsumfang.
-
-Sie gilt ebenso für zugehörige Support-Dienste, In-App-Funktionen,
-Abonnements sowie Online-Inhalte, die im Zusammenhang mit den Anwendungen bereitgestellt werden.
-
-⸻
-
-3. Grundsatz
-
-Der Schutz deiner Daten hat höchste Priorität.
-
-Alle Apps von MO Apps arbeiten nach dem Prinzip:
-	•	keine unnötigen Daten
-	•	keine versteckte Verarbeitung
-	•	maximale Transparenz
-	•	so viel lokal wie möglich
-
-⸻
-
-4. Verarbeitung personenbezogener Daten
-
-Grundsätzlich werden keine personenbezogenen Daten erhoben, gespeichert oder weitergegeben.
-
-Personenbezogene Daten werden nur verarbeitet, wenn dies technisch erforderlich ist oder du sie freiwillig angibst.
-
-⸻
-
-5. Support & Kontakt
-
-Einige Apps enthalten ein integriertes Support-Formular.
-
-Dabei gilt:
-	•	keine direkte Anzeige einer E-Mail-Adresse
-	•	keine Pflicht zur Angabe von Namen
-	•	Nachrichten werden verschlüsselt übertragen
-	•	Weiterleitung erfolgt serverseitig an support@orend.org
-	•	keine Speicherung der Inhalte in der App
-
-⸻
-
-6. Abonnements & App Store
-
-Kostenpflichtige Funktionen werden über Apple In-App-Käufe abgewickelt.
-
-Dabei gilt:
-	•	Abrechnung ausschließlich über Apple
-	•	keine Einsicht in Zahlungsdaten
-	•	keine Speicherung von Zahlungsinformationen durch MO Apps
-
-⸻
-
-7. Internet-Inhalte (z. B. RSS, Online-Daten)
-
-Einige Apps laden Inhalte aus öffentlich zugänglichen Online-Quellen.
-
-Dabei gilt:
-	•	Abruf erfolgt anonym
-	•	keine Nutzerprofile
-	•	keine Zusammenführung mit personenbezogenen Daten
-
-⸻
-
-8. Standort- & Sensordaten
-
-Sofern eine App Standort- oder Sensordaten nutzt:
-	•	ausschließlich nach expliziter Zustimmung
-	•	nur für die jeweilige Funktion
-	•	keine dauerhafte Speicherung
-	•	keine Weitergabe an Dritte
-
-⸻
-
-9. Tracking & Werbung
-
-Es findet kein Tracking statt.
-Keine Analyse-Tools.
-Keine Werbenetzwerke ohne explizite Kennzeichnung.
-
-⸻
-
-10. Datenweitergabe
-
-Es erfolgt keine Weitergabe personenbezogener Daten an Dritte,
-außer wenn gesetzlich erforderlich oder technisch zwingend notwendig.
-
-⸻
-
-11. Datensicherheit
-
-Alle Apps verwenden:
-	•	verschlüsselte Verbindungen (HTTPS)
-	•	aktuelle Sicherheitsstandards
-	•	minimale Datenspeicherung
-
-⸻
-
-12. Deine Rechte
-
-Du hast jederzeit das Recht auf:
-	•	Auskunft
-	•	Berichtigung
-	•	Löschung
-	•	Einschränkung der Verarbeitung
-
-Anfragen bitte an: support@orend.org
-
-⸻
-
-13. Änderungen
-
-Diese Datenschutzerklärung kann bei technischen oder rechtlichen Änderungen angepasst werden.
-Es gilt stets die aktuelle Version.
-
-⸻
-
-🇬🇧 Privacy Policy
-
-1. Controller
-
-Michael Orend – MO Apps
-Contact: support@orend.org
-
-⸻
-
-2. Scope
-
-This privacy policy applies to all mobile and desktop applications
-published by Michael Orend – MO Apps
-(iOS, iPadOS, macOS, watchOS, tvOS), regardless of their individual features.
-
-It also applies to related support services, in-app features, subscriptions,
-and online content provided in connection with the applications.
-
-⸻
-
-3. Principle
-
-Protecting your data is a top priority.
-
-All MO Apps follow these principles:
-	•	no unnecessary data
-	•	no hidden processing
-	•	full transparency
-	•	local processing whenever possible
-
-⸻
-
-4. Personal Data
-
-In general, no personal data is collected, stored, or shared.
-
-Personal data is only processed if technically required or voluntarily provided.
-
-⸻
-
-5. Support & Contact
-
-Some apps include an integrated support form.
-
-Rules:
-	•	no visible email address
-	•	no mandatory personal information
-	•	encrypted transmission
-	•	server-side forwarding to support@orend.org
-	•	no in-app storage of messages
-
-⸻
-
-6. Subscriptions & App Store
-
-Paid features are handled via Apple In-App Purchases.
-	•	billing handled exclusively by Apple
-	•	no access to payment data
-	•	no storage of payment information by MO Apps
-
-⸻
-
-7. Online Content (e.g. RSS)
-
-Some apps load publicly available online content.
-	•	anonymous access
-	•	no user profiling
-	•	no personal data linkage
-
-⸻
-
-8. Location & Sensors
-
-If an app uses location or sensor data:
-	•	only with explicit consent
-	•	strictly feature-related
-	•	no permanent storage
-	•	no third-party sharing
-
-⸻
-
-9. Tracking & Advertising
-
-No tracking.
-No analytics.
-No advertising networks without explicit disclosure.
-
-⸻
-
-10. Data Sharing
-
-No personal data is shared with third parties unless legally required or technically necessary.
-
-⸻
-
-11. Security
-
-All apps use:
-	•	encrypted connections (HTTPS)
-	•	modern security standards
-	•	minimal data storage
-
-⸻
-
-12. Your Rights
-
-You have the right to:
-	•	access
-	•	correction
-	•	deletion
-	•	restriction of processing
+---
+
+## English
+
+### 1. Controller
+Michael Orend – MO Apps  
+Email: support@orend.org
+
+### 2. Principle
+We value your privacy. Our apps are designed with **minimal data collection**.
+
+### 3. No automatic data collection
+Our apps:
+- do **not collect personal data automatically**
+- use **no tracking or analytics services**
+- use **no advertising identifiers**
+- set **no cookies**
+- share **no data with third parties**
+
+### 4. Local processing
+All content and settings are stored **locally on the device**, unless explicitly
+stated otherwise within the app.
+
+### 5. Contact / Support
+If you contact us (e.g. via email or optional support form), the following data
+may be processed voluntarily:
+- Name (optional)
+- Email address (optional)
+- Message
+
+**Purpose:** Customer support  
+**Legal basis:** Art. 6(1)(b) GDPR  
+Data is **not used for tracking**, **not for advertising**, and **not stored permanently**.
+
+### 6. Location data
+Some apps may use location data (e.g. GPS) with your explicit consent.
+This is used solely for app functionality.
+**Not all apps use location data.**
+
+### 7. Third-party services
+Our apps do **not** use third-party analytics or tracking services.
+
+### 8. User rights
+You have the right to access, correct, or delete your data at any time.
 
 Contact: support@orend.org
-
-⸻
-
-13. Changes
-
-This privacy policy may be updated due to legal or technical changes.
-The current version always applies.
