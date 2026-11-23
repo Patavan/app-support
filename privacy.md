@@ -4,7 +4,7 @@
 
 ### 1. Verantwortlicher
 Michael Orend – MO Apps  
-E-Mail: support@orend.org
+E-Mail: moapps-support@proton.me
 
 ### 2. Grundsatz
 Der Schutz deiner Daten ist uns wichtig. Unsere Apps sind so konzipiert, dass
@@ -51,7 +51,7 @@ Du hast jederzeit das Recht auf:
 - Löschung
 - Einschränkung der Verarbeitung
 
-Kontakt: support@orend.org
+Kontakt: moapps-support@proton.me
 
 ---
 
@@ -59,7 +59,7 @@ Kontakt: support@orend.org
 
 ### 1. Controller
 Michael Orend – MO Apps  
-Email: support@orend.org
+Email: moapps-support@proton.me
 
 ### 2. Principle
 We value your privacy. Our apps are designed with **minimal data collection**.
@@ -98,4 +98,4 @@ Our apps do **not** use third-party analytics or tracking services.
 ### 8. User rights
 You have the right to access, correct, or delete your data at any time.
 
-Contact: support@orend.org
+Contact: moapps-support@proton.me
