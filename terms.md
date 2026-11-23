@@ -4,7 +4,7 @@
 
 ### 1. Anbieter
 Michael Orend – MO Apps  
-E-Mail: support@orend.org
+E-Mail: moapps-support@proton.me
 
 ### 2. Geltungsbereich
 Diese Nutzungsbedingungen gelten für **alle mobilen Anwendungen**
@@ -32,7 +32,7 @@ oder einzustellen.
 
 ### 1. Provider
 Michael Orend – MO Apps  
-Email: support@orend.org
+Email: moapps-support@proton.me
 
 ### 2. Scope
 These terms apply to **all mobile applications** by Michael Orend – MO Apps,
